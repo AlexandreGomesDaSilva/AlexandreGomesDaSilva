@@ -27,6 +27,5 @@ Please feel free to explore my repositories and contact me if you have any quest
   <a href="https://www.linkedin.com/in/alexandre-gomes-da-silva-1b5592203/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=plastique&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### Or by <a href="mailto:alexgds92@gmail.com" target="_blank>email</a> 
-
-a
+### Or by E-Mail
+<a href="mailto:alexgds92@gmail.com" target="_blank>Click here 📧</a>
