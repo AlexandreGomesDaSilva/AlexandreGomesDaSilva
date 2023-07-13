@@ -25,7 +25,4 @@ Please feel free to explore my repositories and contact me if you have any quest
   <a href="https://github.com/AlexandreGomesDaSilva" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=plastique&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/PHP_Alxs" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=plastique&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/alexandre-gomes-da-silva-1b5592203/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=plastique&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alexgds92@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail_icon"/>
-</a>
 </p>
