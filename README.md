@@ -2,9 +2,8 @@
 
 My name is Alexandre Gomes Da Silva, 25yo, portuguese born and living in France in Paris suburbs. The world of IT has been part of my daily life from my earliest years. But it was only during my studies in International Operational Marketing that I developed a particular interest in programming. For me, programming is a bottomless pit of creativity. That's why, in March 2023, I joined the PHP/JS web developer course at the <a href="https://oclock.io/" target="_blank">O'Clock</a> online school.
 
-
-
-Please feel free to explore my repositories and contact me if you have any questions or if you would like to discuss potential collaborations.
+Nowadays I'm looking for an internship in programming, for a minimum of 3 months, in the Île-de-France region (France).
+What I like is to surpass myself and overcome the challenges I face. My seriousness, organization and team spirit are qualities I'd like to put to good use in a company. Why not... your company ? 😉
 
 ### Languages that I learned and I use
 <p>
@@ -29,3 +28,5 @@ Please feel free to explore my repositories and contact me if you have any quest
 
 ### Or by E-Mail
 <a href="mailto:alexgds92@gmail.com" target="_blank">Clicking here 📧</a>
+
+Please feel free to explore my repositories and contact me if you have any questions or if you would like to discuss potential collaborations.
