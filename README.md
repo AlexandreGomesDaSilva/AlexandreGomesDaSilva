@@ -28,4 +28,4 @@ Please feel free to explore my repositories and contact me if you have any quest
 </p>
 
 ### Or by E-Mail
-<a href="mailto:alexgds92@gmail.com" target="_blank>Click here 📧</a>
+<a href="mailto:alexgds92@gmail.com" target="_blank">Clicking here 📧</a>
