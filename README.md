@@ -5,7 +5,7 @@ My name is Alexandre Gomes Da Silva, 25yo, portuguese born and living in France 
 Nowadays I'm looking for an internship in programming, for a minimum of 3 months, in the Île-de-France region (France).
 What I like is to surpass myself and overcome the challenges I face. My seriousness, organization and team spirit are qualities I'd like to put to good use in a company. Why not... your company ? 😉
 
-### Languages that I learned and I use
+### Languages that I learned and I use ⌨️
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white" />  
 <img alt="css3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
@@ -18,7 +18,7 @@ What I like is to surpass myself and overcome the challenges I face. My seriousn
 <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-### Find me on my social networks 
+### Find me on my social networks 🖥️
 
 <p>
   <a href="https://github.com/AlexandreGomesDaSilva" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=plastique&logo=Github&logoColor=white" /></a>
@@ -26,7 +26,7 @@ What I like is to surpass myself and overcome the challenges I face. My seriousn
   <a href="https://www.linkedin.com/in/alexandre-gomes-da-silva-1b5592203/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=plastique&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### Or by E-Mail
+### On send me an e-mail 📫
 <a href="mailto:alexgds92@gmail.com" target="_blank">Clicking here 📧</a>
 
 Please feel free to explore my repositories and contact me if you have any questions or if you would like to discuss potential collaborations.
