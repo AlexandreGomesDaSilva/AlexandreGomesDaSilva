@@ -1,6 +1,6 @@
 ### Hi there and welcome to my Github profile 👋
 
-My name is Alexandre Gomes Da Silva, 25yo, portuguese born and living in France in Paris suburbs. The world of IT has been part of my daily life from my earliest years. But it was only during my studies in International Operational Marketing that I developed a particular interest in programming. For me, programming is a bottomless pit of creativity.
+My name is Alexandre Gomes Da Silva, 27yo, portuguese born and living in France in Paris suburbs. The world of IT has been part of my daily life from my earliest years. But it was only during my studies in International Operational Marketing that I developed a particular interest in programming. For me, programming is a bottomless pit of creativity.
 
 Nowadays I'm looking for a job.
 What I like is to surpass myself and overcome the challenges I face. My seriousness, organization and team spirit are qualities I'd like to put to good use in a company. Why not... your company ? 😉
