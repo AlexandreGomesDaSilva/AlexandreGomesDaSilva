@@ -12,9 +12,7 @@ What I like is to surpass myself and overcome the challenges I face. My seriousn
 <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 <img alt="phpmyadmin" src="https://img.shields.io/badge/-PhpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
-<img alt="symphony" src="https://img.shields.io/badge/-Symphony-000000?style=flat-square&logo=symfony&logoColor=white" />
 <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 </p>
 
