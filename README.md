@@ -1,6 +1,6 @@
 ### Hi there and welcome to my Github profile 👋
 
-My name is Alexandre Gomes Da Silva, 27yo, portuguese born and living in France in Paris suburbs. The world of IT has been part of my daily life from my earliest years. But it was only during my studies in International Operational Marketing that I developed a particular interest in programming. For me, programming is a bottomless pit of creativity.
+My name is Alexandre Gomes Da Silva, 28yo, portuguese born and living in France in Paris suburbs. The world of IT has been part of my daily life from my earliest years. But it was only during my studies in International Operational Marketing that I developed a particular interest in programming. For me, programming is a bottomless pit of creativity.
 
 Nowadays I'm looking for a job.
 What I like is to surpass myself and overcome the challenges I face. My seriousness, organization and team spirit are qualities I'd like to put to good use in a company. Why not... your company ? 😉
@@ -20,7 +20,6 @@ What I like is to surpass myself and overcome the challenges I face. My seriousn
 
 <p>
   <a href="https://github.com/AlexandreGomesDaSilva" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=plastique&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/PHP_Alxs" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=plastique&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/alexandre-gomes-da-silva-1b5592203/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?&style=plastique&logo=linkedin&logoColor=white" /></a>
 </p>
 
